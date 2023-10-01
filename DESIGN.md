@@ -737,7 +737,7 @@ displays the speed controller mode and the current value of its virtual clock.
 
 In diagram form, the metrics and status section looks like this:
 
-![Metrics and Status diagram](metrics-and-status.svg)
+![Metrics and Status diagram](metrics-and-status-light.svg)
 
 A sample status page is shown below. Both the Kafka Producer class and the
 main Republisher class publish their own status section, exposing relevant
