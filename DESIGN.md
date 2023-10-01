@@ -127,7 +127,7 @@ The following are **non**-requirements:
 The following diagram shows the major components of the Order Book system.
 Blocks shaded in blue were created as part of the prototype.
 
-![System Architecture Diagram](system_diagram.svg)
+![System Architecture Diagram](system_diagram_light.svg)
 
 The steady state path for the system runs from the ITCH feed at the left to the
 client code at the bottom. Market data is read from a source by the Republisher
